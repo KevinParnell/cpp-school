@@ -27,7 +27,7 @@ int main()
   cout << "* 1. Rock      *\n";
   cout << "* 2. Paper     *\n";
   cout << "* 3. Scissors  *\n";
-  cout << "****************\n";
+  cout << "****************\n\n";
   cout << "Please enter your choice: ";
   cin >> choice;
 
