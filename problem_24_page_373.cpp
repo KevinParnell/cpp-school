@@ -22,7 +22,7 @@ int main()
 
   cout << "This is the simple game Rock Paper Scissors. \nRock beats Scissors \nPaper beats Rock \nand Scissors beats Paper.\n\n";
   // The choices the player can make
-  cout << "****************\n";
+  cout << "****************\n"; // I only did this so it looks neater when ran, and I also think it looks pretty cool
   cout << "* Turn Choices *\n";
   cout << "* 1. Rock      *\n";
   cout << "* 2. Paper     *\n";
