@@ -52,7 +52,7 @@ int main(){
             }
             else if(board[row-1][column-1] != '*')
             {
-                cout << "Error: The (row,column) is already occupied.\n";
+                cout << "Error: The square is already occupied.\n";
                 cout << "What is the row?: \n";
                 cin >> row;
                 cout << "What is the column?: \n";
@@ -91,7 +91,7 @@ int main(){
                     }
                     else if(board[row-1][column-1] != '*')
                     {
-                        cout << "Error: The (row,column) is already occupied.\n";
+                        cout << "Error: The square is already occupied.\n";
                         cout << "What is the row?: \n";
                         cin >> row;
                         cout << "What is the column?: \n";
